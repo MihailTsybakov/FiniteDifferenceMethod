@@ -1,1 +1,1 @@
-# FiniteDifferenceMethod
+Simplest FDM C-realisation
